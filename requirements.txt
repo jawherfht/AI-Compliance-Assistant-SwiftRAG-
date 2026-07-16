@@ -1,0 +1,15 @@
+streamlit
+pandas
+pypdf
+docx2txt
+tiktoken
+chromadb
+ollama
+pydantic
+openai
+python-dotenv
+PyMuPDF
+keybert
+torch
+torchvision
+sentence-transformers

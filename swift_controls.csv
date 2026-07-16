@@ -1,0 +1,33 @@
+control_id,title,start_page,end_page
+2.10,Application Hardening,7,27
+1.1,Swift Environment Protection,28,27
+1.2,Operating System Privileged Account Control,28,27
+1.3,Virtualisation or Cloud Platform Protection,28,27
+1.4,Restriction of Internet Access,28,27
+1.5,Customer Environment Protection,28,27
+2.1,Internal Data Flow Security,28,27
+2.2,Security Updates,28,27
+2.3,System Hardening,28,27
+2.4,Back Office Data Flow Security,28,27
+2.5A,External Transmission Data Protection,28,27
+2.6,Operator Session Confidentiality and Integrity,28,27
+2.7,Vulnerability Scanning,28,27
+2.8,Outsourced Critical Activity Protection,28,27
+2.9,Transaction Business Controls,28,27
+2.11A,RMA Business Controls,28,27
+3.1,Physical Security,28,27
+4.1,Password Policy,28,27
+4.2,Multi-Factor Authentication,28,27
+5.1,Logical Access Control,28,27
+5.2,Token Management,28,27
+5.3A,Staff Screening Process,28,27
+5.4,Password Repository Protection,28,27
+6.1,Malware Protection,28,27
+6.2,Software Integrity,28,27
+6.3,Database Integrity,28,27
+6.4,Logging and Monitoring,28,27
+6.5A,Intrusion Detection,28,27
+7.1,Cyber Incident Response Planning,28,27
+7.2,Security Training and Awareness,28,27
+7.3A,Penetration Testing,28,27
+7.4A,Scenario-based Risk Assessment,28,136

@@ -1,0 +1,5 @@
+id,control,question
+AC-01,Access Control,"Do you enforce least privilege for all roles and review access regularly?"
+LM-01,Logging & Monitoring,"What mechanisms log user and system activity, and how often are they reviewed?"
+CM-01,Change Management,"Is there a documented change management and approval process?"
+IR-01,Incident Response,"Do you test your incident response process regularly and maintain escalation steps?"
