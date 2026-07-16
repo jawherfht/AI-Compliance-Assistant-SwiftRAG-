@@ -139,7 +139,7 @@ Jawher Farhat
 
 AI Engineering Student – ESPRIT
 
-Internship Project – STB Bank
+Internship Project – 
 
 ---
 
