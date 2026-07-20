@@ -14,7 +14,7 @@ from vectorstore import index_document, search, reset_collection
 from evaluator import evaluate_control
 
 # SWIFT integration modules
-from swift_parser import extract_controls
+from swift_parser import extract_controls, generate_control_pdfs
 from control_summarizer import summarize_controls
 from keyword_extractor import extract_keywords
 from database import initialize_database, seed_database, update_database_with_extras
@@ -183,6 +183,12 @@ with tab2:
                     
                     st.info("1/5: Extracting controls from PDF...")
                     controls = extract_controls(tmp_path)
+                    if controls:
+                        generate_control_pdfs(
+                            tmp_path,
+                            controls,
+                            os.path.join(BASE_DIR, "generated_controls"),
+                        )
                     os.remove(tmp_path)
                     
                     if not controls:

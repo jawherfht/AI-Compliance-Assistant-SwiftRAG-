@@ -1,33 +1,33 @@
 control_id,title,start_page,end_page
-2.10,Application Hardening,7,27
-1.1,Swift Environment Protection,28,27
-1.2,Operating System Privileged Account Control,28,27
-1.3,Virtualisation or Cloud Platform Protection,28,27
-1.4,Restriction of Internet Access,28,27
-1.5,Customer Environment Protection,28,27
-2.1,Internal Data Flow Security,28,27
-2.2,Security Updates,28,27
-2.3,System Hardening,28,27
-2.4,Back Office Data Flow Security,28,27
-2.5A,External Transmission Data Protection,28,27
-2.6,Operator Session Confidentiality and Integrity,28,27
-2.7,Vulnerability Scanning,28,27
-2.8,Outsourced Critical Activity Protection,28,27
-2.9,Transaction Business Controls,28,27
-2.11A,RMA Business Controls,28,27
-3.1,Physical Security,28,27
-4.1,Password Policy,28,27
-4.2,Multi-Factor Authentication,28,27
-5.1,Logical Access Control,28,27
-5.2,Token Management,28,27
-5.3A,Staff Screening Process,28,27
-5.4,Password Repository Protection,28,27
-6.1,Malware Protection,28,27
-6.2,Software Integrity,28,27
-6.3,Database Integrity,28,27
-6.4,Logging and Monitoring,28,27
-6.5A,Intrusion Detection,28,27
-7.1,Cyber Incident Response Planning,28,27
-7.2,Security Training and Awareness,28,27
-7.3A,Penetration Testing,28,27
-7.4A,Scenario-based Risk Assessment,28,136
+2.10,Application Hardening,7,29
+1.1,Swift Environment Protection,30,34
+1.2,Operating System Privileged Account Control,35,37
+1.3,Virtualisation or Cloud Platform Protection,38,39
+1.4,Restriction of Internet Access,40,41
+1.5,Customer Environment Protection,42,45
+2.1,Internal Data Flow Security,46,47
+2.2,Security Updates,48,49
+2.3,System Hardening,50,51
+2.4,Back Office Data Flow Security,52,53
+2.5A,External Transmission Data Protection,54,55
+2.6,Operator Session Confidentiality and Integrity,56,57
+2.7,Vulnerability Scanning,58,59
+2.8,Outsourced Critical Activity Protection,60,61
+2.9,Transaction Business Controls,62,65
+2.11A,RMA Business Controls,66,66
+3.1,Physical Security,67,68
+4.1,Password Policy,69,70
+4.2,Multi-Factor Authentication,71,73
+5.1,Logical Access Control,74,75
+5.2,Token Management,76,77
+5.3A,Staff Screening Process,78,79
+5.4,Password Repository Protection,80,81
+6.1,Malware Protection,82,83
+6.2,Software Integrity,84,85
+6.3,Database Integrity,86,86
+6.4,Logging and Monitoring,87,88
+6.5A,Intrusion Detection,89,90
+7.1,Cyber Incident Response Planning,91,92
+7.2,Security Training and Awareness,93,94
+7.3A,Penetration Testing,95,96
+7.4A,Scenario-based Risk Assessment,97,136
